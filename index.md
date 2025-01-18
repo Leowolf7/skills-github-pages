@@ -1,6 +1,4 @@
 ---
-title: Welcome to my blog
-
-title: Another Title to add
+title: Welcome to my blog this is really cool
 ---
 
